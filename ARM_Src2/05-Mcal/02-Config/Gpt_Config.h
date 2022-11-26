@@ -1,0 +1,9 @@
+#ifndef GPT_CONFIG_H_
+#define GPT_CONFIG_H_
+
+#define PREDEF_GPT_DISABLE  0
+#define PREDEF_GPT_ENABLE   1
+
+#define PREDEF_TIMER  PREDEF_GPT_ENABLE 
+
+#endif
